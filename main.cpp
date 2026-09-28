@@ -17,7 +17,7 @@
 #define INITIAL_PLAYER_X 2
 #define INITIAL_PLAYER_Y 2
 
-#define FOV 60.0
+#define FOV 120.0
 
 const char map[MAP_HEIGTH][MAP_WIDTH + 1] = {
     "################",
